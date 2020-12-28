@@ -23,7 +23,7 @@ const Metin =()=>{
     return (
         <View>
             <ImageBackground source={image} style={styles.image}>
-      <Text style={styles.text}>Inside</Text>
+      <Text style={styles.text}>Hakan</Text>
     </ImageBackground>
             
             {/* <Image
