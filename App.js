@@ -7,7 +7,6 @@ import bgImage from './assets/favicon.png';
 const App = () => {
   return (
     <View style={styles.container}>
-
       <StatusBar style="auto" />
     </View>
   );
